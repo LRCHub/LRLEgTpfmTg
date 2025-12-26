@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "惑星ループ",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-26T12:09:26.156656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "惑星ループ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_惑星ループ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "惑星ループ",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_惑星ループ_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "惑星ループ - Eve  feat.ナユタン星人",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_惑星ループ_-_Eve_feat.ナユタン星人_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "惑星ループ",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/04_惑星ループ_Various.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "惑星ループ",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/05_惑星ループ_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "惑星ループ - Wakusei Loop",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/06_惑星ループ_-_Wakusei_Loop_Eve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "惑星ループ (Paused)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_惑星ループ_(Paused)_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "惑星ループ",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_惑星ループ_Eve.txt"
+    }
+  ]
+}
